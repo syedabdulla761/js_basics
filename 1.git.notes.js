@@ -26,7 +26,6 @@ Git push:- updates file in git repo." Git push –u origin master" to connect lo
 Git diff:- difference between file in remote repo and local. 
 
 Git commit –m " //comments// " :-direct writing the comment 
-
  
 `
 console.log(notes)
